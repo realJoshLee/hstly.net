@@ -1,4 +1,4 @@
-:root {
+  :root {
     /*Dark*/
     /*--color: #fff;
     --background: #1d2126;
@@ -21,7 +21,8 @@
   }
 
   html {
-    margin-top: 20px;
+    padding-top: 50px;
+    padding-bottom: 150px;
   }
 
   h2 {
